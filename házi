@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color:aquamarine">
+    <h1>
+        műveltségi vetélkedő
+    </h1>
+    <p>
+        decemberben
+    </p>
+    <hr>
+    <h2>
+        kandóhét
+    </h2>
+    <p>
+        februárban
+    </p>
+    <hr>
+    <h2>
+        Csanyiki Sportnap
+    </h2>
+    <p>
+        júniusban
+    </p>
+    <hr>
+    <p>szeretem az<br>őszt</p>
+    <p>
+        Majka mindenki táncol
+    </p>
+    <pre>
+        Régrbbrn más volt
+        a 90 es években mindenki táncolt
+        és micsoda tánc volt
+    </pre>
+    <p
+        style="font-size:50px;"
+    >
+    szeretem az őszt
+    </p>
+    <br>
+    <h1
+        style="background-color:green;"
+    >szeretem az őszt </h1>
+
+</body>
+</html>
