@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+</head>
+<html>
+    <form></form>
+<body>
+    <formaction="https://www.facebook.com/>"
+    <div>
+    <label>Név:</label>
+    <input="typename"="Név">
+    </div>
+    <br>
+    <div>
+        <body>
+            <label>Jelszó:</label>
+            <input type="submit" name="küldés">
+        </body>
+    </div>
+</form>
+</body>
+</html>
